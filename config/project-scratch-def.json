@@ -1,0 +1,32 @@
+{
+  "orgName": "MJ Scratch",
+  "edition": "Partner Developer",
+  "namespace":"CJA_Mortgage",
+  "features": ["Communities",
+    "ContactsToMultipleAccounts",
+    "PersonAccounts",
+    "IndustriesActionPlan",
+    "DocumentChecklist",
+    "FinancialServicesUser:10",
+    "FinancialServicesCommunityUser:10",
+    "FlowSites"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {      }
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "communitiesSettings": {
+        "enableNetworksEnabled": true
+    }
+  },
+  "objectSettings": {
+    "account": {
+       "defaultRecordType": "PersonAccount"
+    }
+ }
+}

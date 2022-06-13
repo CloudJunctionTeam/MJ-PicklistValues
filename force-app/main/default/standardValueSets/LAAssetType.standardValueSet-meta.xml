@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Deposit on Purchase</fullName>
+        <default>false</default>
+        <label>Deposit on Purchase</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gift</fullName>
+        <default>false</default>
+        <label>Gift</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Household Goods</fullName>
+        <default>false</default>
+        <label>Household Goods</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Life Insurance</fullName>
+        <default>false</default>
+        <label>Life Insurance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Property</fullName>
+        <default>false</default>
+        <label>Property</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rental Property</fullName>
+        <default>false</default>
+        <label>Rental Property</label>
+    </standardValue>
+    <standardValue>
+        <fullName>RRSP</fullName>
+        <default>false</default>
+        <label>RRSP</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Savings</fullName>
+        <default>false</default>
+        <label>Savings</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Stocks Bonds Mutual</fullName>
+        <default>false</default>
+        <label>Stocks Bonds Mutual</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Vehicle</fullName>
+        <default>false</default>
+        <label>Vehicle</label>
+    </standardValue>
+</StandardValueSet>
