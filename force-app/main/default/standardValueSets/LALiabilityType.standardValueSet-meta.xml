@@ -37,16 +37,6 @@
         <label>Lease</label>
     </standardValue>
     <standardValue>
-        <fullName>Mortgage</fullName>
-        <default>false</default>
-        <label>Mortgage</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Mortgage on a Rental Property</fullName>
-        <default>false</default>
-        <label>Mortgage on a Rental Property</label>
-    </standardValue>
-    <standardValue>
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
@@ -55,11 +45,6 @@
         <fullName>Personal Loan</fullName>
         <default>false</default>
         <label>Personal Loan</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Rent</fullName>
-        <default>false</default>
-        <label>Rent</label>
     </standardValue>
     <standardValue>
         <fullName>Secured Line of Credit</fullName>
