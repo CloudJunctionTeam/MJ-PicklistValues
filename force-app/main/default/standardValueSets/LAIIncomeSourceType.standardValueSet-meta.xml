@@ -17,9 +17,9 @@
         <label>Interest Income</label>
     </standardValue>
     <standardValue>
-        <fullName>Other Employment Income</fullName>
+        <fullName>Other</fullName>
         <default>false</default>
-        <label>Other Employment Income</label>
+        <label>Other</label>
     </standardValue>
     <standardValue>
         <fullName>Pension</fullName>
