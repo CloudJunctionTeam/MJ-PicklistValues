@@ -21,4 +21,29 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
+    <standardValue>
+        <fullName>Homeowner</fullName>
+        <default>false</default>
+        <label>Homeowner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Previously Owned</fullName>
+        <default>false</default>
+        <label>Previously Owned</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Currently Own</fullName>
+        <default>false</default>
+        <label>Currently Own</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Renting</fullName>
+        <default>false</default>
+        <label>Renting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Live Rent-Free</fullName>
+        <default>false</default>
+        <label>Live Rent-Free</label>
+    </standardValue>
 </StandardValueSet>

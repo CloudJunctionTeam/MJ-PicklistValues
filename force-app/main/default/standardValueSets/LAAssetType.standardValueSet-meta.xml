@@ -2,9 +2,29 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
+        <fullName>Cash Chequing</fullName>
+        <default>false</default>
+        <label>Cash - Chequing Account</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cash Savings</fullName>
+        <default>false</default>
+        <label>Cash - Savings Account</label>
+    </standardValue>
+    <standardValue>
         <fullName>Deposit on Purchase</fullName>
         <default>false</default>
         <label>Deposit on Purchase</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Earnest Money</fullName>
+        <default>false</default>
+        <label>Earnest Money</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Employer Assistance</fullName>
+        <default>false</default>
+        <label>Employer Assistance</label>
     </standardValue>
     <standardValue>
         <fullName>Gift</fullName>
@@ -17,6 +37,11 @@
         <label>Household Goods</label>
     </standardValue>
     <standardValue>
+        <fullName>Investment</fullName>
+        <default>false</default>
+        <label>Investment (Stocks, Bonds, Mutual Funds, GIC, Term Deposit)</label>
+    </standardValue>
+    <standardValue>
         <fullName>Life Insurance</fullName>
         <default>false</default>
         <label>Life Insurance</label>
@@ -25,6 +50,31 @@
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Proceeds from Real Estate Property to be sold on or before closing</fullName>
+        <default>false</default>
+        <label>Proceeds from Real Estate Property to be sold on or before closing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Proceeds from Sale of Non-Real Estate Asset</fullName>
+        <default>false</default>
+        <label>Proceeds from Sale of Non-Real Estate Asset</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Property</fullName>
+        <default>false</default>
+        <label>Property</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rental Property</fullName>
+        <default>false</default>
+        <label>Rental Property</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rent Credit</fullName>
+        <default>false</default>
+        <label>Rent Credit</label>
     </standardValue>
     <standardValue>
         <fullName>RRSP</fullName>
@@ -37,13 +87,48 @@
         <label>Savings</label>
     </standardValue>
     <standardValue>
+        <fullName>Secured Borrowed Funds</fullName>
+        <default>false</default>
+        <label>Secured Borrowed Funds</label>
+    </standardValue>
+    <standardValue>
         <fullName>Stocks Bonds Mutual</fullName>
         <default>false</default>
         <label>Stocks Bonds Mutual</label>
     </standardValue>
     <standardValue>
+        <fullName>Sweat Equity</fullName>
+        <default>false</default>
+        <label>Sweat Equity</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trade Equity</fullName>
+        <default>false</default>
+        <label>Trade Equity</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unsecured Borrowed Funds</fullName>
+        <default>false</default>
+        <label>Unsecured Borrowed Funds</label>
+    </standardValue>
+    <standardValue>
         <fullName>Vehicle</fullName>
         <default>false</default>
         <label>Vehicle</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Mutual_Fund_Stock_Bonds</fullName>
+        <default>false</default>
+        <label>Mutual Fund/Stock/Bonds</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gift_from_family</fullName>
+        <default>false</default>
+        <label>Gift from immediate family member</label>
+    </standardValue>
+    <standardValue>
+        <fullName>RRSP_RRIF</fullName>
+        <default>false</default>
+        <label>RRSP / RRIF</label>
     </standardValue>
 </StandardValueSet>
