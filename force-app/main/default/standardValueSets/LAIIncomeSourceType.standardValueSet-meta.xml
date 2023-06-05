@@ -27,96 +27,6 @@
         <label>Pension</label>
     </standardValue>
     <standardValue>
-        <fullName>Automobile Allowance</fullName>
-        <default>false</default>
-        <label>Automobile Allowance</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Boarder Income</fullName>
-        <default>false</default>
-        <label>Boarder Income</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Capital Gains</fullName>
-        <default>false</default>
-        <label>Capital Gains</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Disability</fullName>
-        <default>false</default>
-        <label>Disability</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Foster Care</fullName>
-        <default>false</default>
-        <label>Foster Care</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Housing or Parsonage</fullName>
-        <default>false</default>
-        <label>Housing or Parsonage</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Interest and Dividends</fullName>
-        <default>false</default>
-        <label>Interest and Dividends</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Mortgage Credit Certificate</fullName>
-        <default>false</default>
-        <label>Mortgage Credit Certificate</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Mortgage Differential Payments</fullName>
-        <default>false</default>
-        <label>Mortgage Differential Payments</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Notes Receivable</fullName>
-        <default>false</default>
-        <label>Notes Receivable</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Public Assistance</fullName>
-        <default>false</default>
-        <label>Public Assistance</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Retirement</fullName>
-        <default>false</default>
-        <label>Retirement</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Royalty Payments</fullName>
-        <default>false</default>
-        <label>Royalty Payments</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Separate Maintenance</fullName>
-        <default>false</default>
-        <label>Separate Maintenance</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Social Security</fullName>
-        <default>false</default>
-        <label>Social Security</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Trust</fullName>
-        <default>false</default>
-        <label>Trust</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Unemployment Benefits</fullName>
-        <default>false</default>
-        <label>Unemployment Benefits</label>
-    </standardValue>
-    <standardValue>
-        <fullName>VA Compensation</fullName>
-        <default>false</default>
-        <label>VA Compensation</label>
-    </standardValue>
-    <standardValue>
         <fullName>Employed</fullName>
         <default>false</default>
         <label>Employed</label>
@@ -150,10 +60,5 @@
         <fullName>Survivor Benefit Pension</fullName>
         <default>false</default>
         <label>Survivor Benefit Pension</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Other Employment Income</fullName>
-        <default>false</default>
-        <label>Other Employment Income</label>
     </standardValue>
 </StandardValueSet>
