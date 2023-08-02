@@ -66,4 +66,14 @@
         <default>false</default>
         <label>Wage Garnishment</label>
     </standardValue>
+    <standardValue>
+        <fullName>Unsecured Line Credit</fullName>
+        <default>false</default>
+        <label>Unsecured Line Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Secured Line Credit</fullName>
+        <default>false</default>
+        <label>Secured Line Credit</label>
+    </standardValue>
 </StandardValueSet>

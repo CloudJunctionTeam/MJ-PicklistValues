@@ -2,11 +2,6 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Rental</fullName>
-        <default>false</default>
-        <label>Rental</label>
-    </standardValue>
-    <standardValue>
         <fullName>Owner Occupied</fullName>
         <default>false</default>
         <label>Owner Occupied</label>
@@ -17,8 +12,28 @@
         <label>Owner Occupied and Rental</label>
     </standardValue>
     <standardValue>
+        <fullName>Rental</fullName>
+        <default>false</default>
+        <label>Rental</label>
+    </standardValue>
+    <standardValue>
         <fullName>Second Home</fullName>
         <default>false</default>
         <label>Second Home</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Second_Home_Vacation_Property</fullName>
+        <default>false</default>
+        <label>Second Home / Vacation Property</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rental_Investment</fullName>
+        <default>false</default>
+        <label>Rental / Investment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Owner_Occupied_Rental</fullName>
+        <default>false</default>
+        <label>Owner Occupied / Rental</label>
     </standardValue>
 </StandardValueSet>

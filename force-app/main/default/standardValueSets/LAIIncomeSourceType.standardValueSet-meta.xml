@@ -26,4 +26,39 @@
         <default>false</default>
         <label>Pension</label>
     </standardValue>
+    <standardValue>
+        <fullName>Employed</fullName>
+        <default>false</default>
+        <label>Employed</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Self Employed</fullName>
+        <default>false</default>
+        <label>Self Employed</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CPP</fullName>
+        <default>false</default>
+        <label>Canada Pension Plan (CPP)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>OAS</fullName>
+        <default>false</default>
+        <label>Old Age Security (OAS)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Spousal Support</fullName>
+        <default>false</default>
+        <label>Spousal Support</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CCB</fullName>
+        <default>false</default>
+        <label>Canada Child Benefit (CCB)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Survivor Benefit Pension</fullName>
+        <default>false</default>
+        <label>Survivor Benefit Pension</label>
+    </standardValue>
 </StandardValueSet>
