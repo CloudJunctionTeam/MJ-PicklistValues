@@ -2,73 +2,114 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Common Law</fullName>
+        <fullName>Alimony</fullName>
         <default>false</default>
-        <label>Common Law</label>
+        <label>Alimony</label>
     </standardValue>
     <standardValue>
-        <fullName>Divorced</fullName>
+        <fullName>Auto Lease</fullName>
         <default>false</default>
-        <label>Divorced</label>
+        <label>Auto Lease</label>
     </standardValue>
     <standardValue>
-        <fullName>Married</fullName>
+        <fullName>Auto Loan</fullName>
         <default>false</default>
-        <label>Married</label>
+        <label>Auto Loan</label>
     </standardValue>
     <standardValue>
-        <fullName>Separated</fullName>
+        <fullName>CarLoan</fullName>
         <default>false</default>
-        <label>Separated</label>
+        <label>Car Loan</label>
     </standardValue>
     <standardValue>
-        <fullName>Single</fullName>
+        <fullName>Child Support</fullName>
         <default>false</default>
-        <label>Single</label>
+        <label>Child Support</label>
     </standardValue>
     <standardValue>
-        <fullName>Widowed</fullName>
+        <fullName>collection</fullName>
         <default>false</default>
-        <label>Widowed</label>
+        <label>Collection</label>
     </standardValue>
     <standardValue>
-        <fullName>Other</fullName>
+        <fullName>Credit Card</fullName>
         <default>false</default>
-        <label>Other</label>
-    </standardValue>
-</StandardValueSet>
-<?xml version="1.0" encoding="UTF-8"?>
-<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <sorted>false</sorted>
-    <standardValue>
-        <fullName>Common Law</fullName>
-        <default>false</default>
-        <label>Common Law</label>
+        <label>Credit Card</label>
     </standardValue>
     <standardValue>
-        <fullName>Divorced</fullName>
+        <fullName>home_equity_line_of_credit</fullName>
         <default>false</default>
-        <label>Divorced</label>
+        <label>Home Equity Line Of Credit</label>
     </standardValue>
     <standardValue>
-        <fullName>Married</fullName>
+        <fullName>Income Tax</fullName>
         <default>false</default>
-        <label>Married</label>
+        <label>Income Tax</label>
     </standardValue>
     <standardValue>
-        <fullName>Separated</fullName>
+        <fullName>Lease</fullName>
         <default>false</default>
-        <label>Separated</label>
+        <label>Lease</label>
     </standardValue>
     <standardValue>
-        <fullName>Single</fullName>
+        <fullName>LeaseAgreement</fullName>
         <default>false</default>
-        <label>Single</label>
+        <label>Lease Agreement</label>
     </standardValue>
     <standardValue>
-        <fullName>Widowed</fullName>
+        <fullName>LineOfCredit</fullName>
         <default>false</default>
-        <label>Widowed</label>
+        <label>Line Of Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>loan</fullName>
+        <default>false</default>
+        <label>Loan</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Mortgage</fullName>
+        <default>false</default>
+        <label>Mortgage</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Personal Loan</fullName>
+        <default>false</default>
+        <label>Personal Loan</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Secured Line Credit</fullName>
+        <default>false</default>
+        <label>Secured Line Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Secured Line of Credit</fullName>
+        <default>false</default>
+        <label>Secured Line of Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>SecuredLoan</fullName>
+        <default>false</default>
+        <label>Secured Loan</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Student Loan</fullName>
+        <default>false</default>
+        <label>Student Loan</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unsecured Line Credit</fullName>
+        <default>false</default>
+        <label>Unsecured Line Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unsecured Line of Credit</fullName>
+        <default>false</default>
+        <label>Unsecured Line of Credit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Wage Garnishment</fullName>
+        <default>false</default>
+        <label>Wage Garnishment</label>
     </standardValue>
     <standardValue>
         <fullName>Other</fullName>
