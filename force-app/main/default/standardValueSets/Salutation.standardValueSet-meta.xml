@@ -2,38 +2,28 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Dr</fullName>
+        <fullName>Mr.</fullName>
         <default>false</default>
-        <label>Dr</label>
+        <label>Mr.</label>
     </standardValue>
     <standardValue>
-        <fullName>Judge</fullName>
+        <fullName>Ms.</fullName>
         <default>false</default>
-        <label>Judge</label>
+        <label>Ms.</label>
     </standardValue>
     <standardValue>
-        <fullName>Miss</fullName>
+        <fullName>Mrs.</fullName>
         <default>false</default>
-        <label>Miss</label>
+        <label>Mrs.</label>
     </standardValue>
     <standardValue>
-        <fullName>Mr</fullName>
+        <fullName>Dr.</fullName>
         <default>false</default>
-        <label>Mr</label>
+        <label>Dr.</label>
     </standardValue>
     <standardValue>
-        <fullName>Mrs</fullName>
+        <fullName>Prof.</fullName>
         <default>false</default>
-        <label>Mrs</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Ms</fullName>
-        <default>false</default>
-        <label>Ms</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Rev</fullName>
-        <default>false</default>
-        <label>Rev</label>
+        <label>Prof.</label>
     </standardValue>
 </StandardValueSet>

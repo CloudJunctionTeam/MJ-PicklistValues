@@ -2,6 +2,16 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
+        <fullName>BankAccount</fullName>
+        <default>false</default>
+        <label>Bank Account</label>
+    </standardValue>
+    <standardValue>
+        <fullName>cash</fullName>
+        <default>false</default>
+        <label>Cash</label>
+    </standardValue>
+    <standardValue>
         <fullName>Cash Chequing</fullName>
         <default>false</default>
         <label>Cash - Chequing Account</label>
@@ -32,9 +42,19 @@
         <label>Gift</label>
     </standardValue>
     <standardValue>
+        <fullName>Gift_from_family</fullName>
+        <default>false</default>
+        <label>Gift from immediate family member</label>
+    </standardValue>
+    <standardValue>
         <fullName>Household Goods</fullName>
         <default>false</default>
         <label>Household Goods</label>
+    </standardValue>
+    <standardValue>
+        <fullName>InsurancePolicy</fullName>
+        <default>false</default>
+        <label>Insurance Policy</label>
     </standardValue>
     <standardValue>
         <fullName>Investment</fullName>
@@ -47,9 +67,9 @@
         <label>Life Insurance</label>
     </standardValue>
     <standardValue>
-        <fullName>Other</fullName>
+        <fullName>Mutual_Fund_Stock_Bonds</fullName>
         <default>false</default>
-        <label>Other</label>
+        <label>Mutual Fund/Stock/Bonds</label>
     </standardValue>
     <standardValue>
         <fullName>Proceeds from Real Estate Property to be sold on or before closing</fullName>
@@ -80,6 +100,11 @@
         <fullName>RRSP</fullName>
         <default>false</default>
         <label>RRSP</label>
+    </standardValue>
+    <standardValue>
+        <fullName>RRSP_RRIF</fullName>
+        <default>false</default>
+        <label>RRSP / RRIF</label>
     </standardValue>
     <standardValue>
         <fullName>Savings</fullName>
@@ -117,18 +142,8 @@
         <label>Vehicle</label>
     </standardValue>
     <standardValue>
-        <fullName>Mutual_Fund_Stock_Bonds</fullName>
+        <fullName>Other</fullName>
         <default>false</default>
-        <label>Mutual Fund/Stock/Bonds</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Gift_from_family</fullName>
-        <default>false</default>
-        <label>Gift from immediate family member</label>
-    </standardValue>
-    <standardValue>
-        <fullName>RRSP_RRIF</fullName>
-        <default>false</default>
-        <label>RRSP / RRIF</label>
+        <label>Other</label>
     </standardValue>
 </StandardValueSet>

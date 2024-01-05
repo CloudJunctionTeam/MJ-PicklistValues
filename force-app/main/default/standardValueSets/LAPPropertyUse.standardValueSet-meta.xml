@@ -17,6 +17,11 @@
         <label>Rental</label>
     </standardValue>
     <standardValue>
+        <fullName>Tenant</fullName>
+        <default>false</default>
+        <label>Tenant</label>
+    </standardValue>
+    <standardValue>
         <fullName>Second Home</fullName>
         <default>false</default>
         <label>Second Home</label>
@@ -35,5 +40,20 @@
         <fullName>Owner_Occupied_Rental</fullName>
         <default>false</default>
         <label>Owner Occupied / Rental</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PartiallyOwnerOccupied</fullName>
+        <default>false</default>
+        <label>Partially Owner Occupied</label>
+    </standardValue>
+    <standardValue>
+        <fullName>LivingWithParents</fullName>
+        <default>false</default>
+        <label>Living With Parents</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
     </standardValue>
 </StandardValueSet>
